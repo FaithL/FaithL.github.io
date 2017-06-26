@@ -7,5 +7,6 @@ Place
 </head>
 <body>
 <a href="index/index.html">home page</a>
+<a href="Ana/Ana.html">Ana's Page</a> 
 </body>
 </html>
